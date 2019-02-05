@@ -1,0 +1,12 @@
+h1 {
+    font-size: 36px;
+    line-height: 35px;
+    padding-top: 40px;
+    color: #21409A;
+}
+h1 {
+    font-family: Helvetica,Arial,Verdana,sans-serif;
+}
+p, a, body {
+	font-family: Helvetica,Arial,Verdana,sans-serif;
+}
